@@ -76,7 +76,7 @@ public class program {
             }
         };
         System.out.println();
-        System.out.println("Исходные данные: ");
+        System.out.println("Телефонная книга: ");
         sortedPrint(abon);
         Scanner scan = new Scanner(System.in, "cp866");
         Boolean getOut = false;
